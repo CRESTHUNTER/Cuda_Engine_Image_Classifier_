@@ -2,7 +2,7 @@ graphsurgeon==0.4.1
 image==1.5.27
 numpy==1.18.1
 tensorboard==1.14.0
-tensorflow==1.14.0
+tensorflow==2.5.0
 tensorflow-estimator==1.14.0
 termcolor==1.1.0
 uff==0.6.5
